@@ -1,4 +1,4 @@
 package com.example.demo.DTO;
 
-public record RueditasRequestDTO() {
+public record RueditasRequestDTO(String placa) {
 }
